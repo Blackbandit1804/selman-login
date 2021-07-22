@@ -5,6 +5,7 @@ This is a Login with only HTML and CSS. You can use it for a "GTA V Roleplay" se
 ### Functions
 - login/register box
 - Hover effect
+- Back button
 - Discord server button
 
 
