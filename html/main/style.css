@@ -105,3 +105,12 @@
     color: grey;
     text-align: center;
 }
+
+.footer {
+    position: absolute;
+    margin-left: 62.55%;
+    margin-top: 35.5%;
+
+    font-family: 'Roboto', sans-serif;
+    color: #adadad;
+}

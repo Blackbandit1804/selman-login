@@ -126,3 +126,12 @@
     color: #00aaff;
     transition: 0.5s;
 }
+
+.footer {
+    position: absolute;
+    margin-left: 62.55%;
+    margin-top: 35.5%;
+
+    font-family: 'Roboto', sans-serif;
+    color: #adadad;
+}

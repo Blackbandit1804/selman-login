@@ -97,7 +97,7 @@
 .btn{
     position: absolute;
     margin-left: 64.2%;
-    margin-top: 5%;
+    margin-top: 3%;
 
     width: 250px;
     height: 50px;
@@ -134,4 +134,13 @@
 .btn-back:hover{
     color: #00aaff;
     transition: 0.5s;
+}
+
+.footer {
+    position: absolute;
+    margin-left: 62.55%;
+    margin-top: 35.5%;
+
+    font-family: 'Roboto', sans-serif;
+    color: #adadad;
 }
